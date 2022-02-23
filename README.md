@@ -1,4 +1,4 @@
-### Olá! Eu sou  vanessa santos 🙋‍♀️
+### Olá! Eu sou a vanessa santos 🙋‍♀️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/vanessa-santos-santana-81bb72224)
 
