@@ -1,16 +1,55 @@
-### Hi there 👋
+<img src = https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png width = "300px" align = "right" >
+ 
+ # Olá! 🙋‍♀
+ <br> <br>
+  
+  
+ ### 💫 sobre mim
+<div>                                                                                              
+  <p>
+Atualmente, sou dona de casa e estou dedicando-me à transição de carreira para a área de Desenvolvimento front-end. Neste período, estou focando em aprofundar-me nos estudos e desenvolver projetos que ampliem meus conhecimentos e habilidades. Me considero uma pessoa criativa e dinâmica, sempre atenta aos detalhes. Tenho habilidade para aprender rapidamente e uma boa comunicação. Futuramente, pretendo estudar Back-End.
+  </p>
+</div>
 
-<!--
-**sant1ana/sant1ana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🤝 Estou aberta a novas oportunidades e pronta para enfrentar novos desafios! 
+ <br> <br> <br>
+ 
 
-Here are some ideas to get you started:
+ 👨🏽‍💻 Estou aprendendo sobre:
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+ <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </div><br> 
+  <br><br>
+ 
+ 
+ ⚙️Ferramentas que uso:
+ <div style="display: inline_block"><br/>
+ 
+ <img align="center" alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+ <img align="center" alt="Amanda-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+ <img align="center" alt="Amanda-Git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div><br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div align="center">  
+  </div>
+  <br> <br>
+
+<div align="center">
+  
+  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=sant1ana&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1ana&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br> <br>
+
+<div align="center">
+ 
+ 🌐 Rede Social
+  <br> <br>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessasantossantana30)
+</div>
+
+
