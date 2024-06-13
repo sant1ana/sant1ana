@@ -41,8 +41,8 @@ Atualmente, sou dona de casa e estou dedicando-me à transição de carreira par
 
 <div align="center">
   
-  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=sant1ana&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1ana&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=sant1ana&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1ana&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br> <br>
 
