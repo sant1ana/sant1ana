@@ -14,8 +14,11 @@
 
  ### 💫 sobre mim
 <div>                                                                                              
-Atualmente, sou dona de casa e estou dedicando-me à transição de carreira para a área de Desenvolvimento front-end. Neste período, estou focando em aprofundar-me nos estudos e desenvolver projetos que ampliem meus conhecimentos e habilidades. Me considero uma pessoa criativa e dinâmica, sempre atenta aos detalhes. Tenho habilidade para aprender rapidamente e uma boa comunicação. Futuramente, pretendo estudar Back-End. Estou aberta a novas oportunidades e pronta para enfrentar novos desafios. 🤝
-  </p>
+<p>🎓 Profissão Atual: Dona de casa em transição de carreira para Desenvolvimento Front-End</p>
+<p>💻 Objetivo Atual:  Adquirir conhecimentos em Front-End através de estudos e desenvolvimento de projetos práticos</p>
+<p>🚀 Objetivo Futuro: Estudar Back-End para me tornar uma desenvolvedora full-stack</p>
+<p>⏳ Em meu tempo livre, gosto de assistir séries e filmes</p> 
+<p>🤝 Aberta a novas oportunidades e pronta para enfrentar novos desafios</p> 
 </div>
 
  
