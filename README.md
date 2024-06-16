@@ -15,7 +15,7 @@
  ### 💫 sobre mim:
 <div>                                                                                              
 <p>🎓 Profissão Atual: Dona de casa em transição de carreira para Desenvolvimento Front-End</p>
-<p>💻 Objetivo Atual:  Adquirir conhecimentos em Front-End através de estudos e desenvolvimento de projetos práticos</p>
+<p>💻 Objetivo Atual:  Adquirir conhecimentos em Front-End através de estudos e desenvolvimento de projetos práticos pessoais</p>
 <p>🚀 Objetivo Futuro: Estudar Back-End para me tornar uma desenvolvedora full-stack</p>
 <p>⏳ Em meu tempo livre, gosto de assistir séries e filmes</p> 
 <p>🤝 Aberta a novas oportunidades e pronta para enfrentar novos desafios</p> 
