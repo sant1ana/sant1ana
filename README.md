@@ -15,7 +15,7 @@
  ### 💫 sobre mim:
 <div>                                                                                              
 <p>🎓 Profissão Atual: Dona de casa em transição de carreira para Desenvolvimento Front-End</p>
-<p>💻 Objetivo Atual:  Adquirir conhecimentos em Front-End e  Back-End através de estudos e desenvolvimento de projetos práticos pessoais</p>
+<p>💻 Objetivo Atual:  Adquirir conhecimentos em Front-End e  Back-End através de estudos e desenvolvimento de projetos pessoais</p>
 <p>🚀 Objetivo Futuro: Me tornar uma desenvolvedora full-stack</p>
 <p>⏳ Em meu tempo livre, gosto de assistir séries e filmes</p> 
 <p>🤝 Aberta a novas oportunidades e pronta para enfrentar novos desafios</p> 
@@ -54,7 +54,7 @@
 
 <div>
  
-📫 Entre em contato comigo 
+📫 Entre em contato comigo: 
   <br> <br>
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanessasantossantana30)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanessasantossantana832@gmail.com)
