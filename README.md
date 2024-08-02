@@ -14,11 +14,7 @@
 
  ### 💫 sobre mim:
 <div>                                                                                              
-<p>🎓 Profissão Atual: Dona de casa em transição de carreira para Desenvolvimento Front-End</p>
-<p>💻 Objetivo Atual:  Adquirir conhecimentos em Front-End e  Back-End através de estudos e desenvolvimento de projetos pessoais</p>
-<p>🚀 Objetivo Futuro: Me tornar uma desenvolvedora full-stack</p>
-<p>⏳ Em meu tempo livre, gosto de assistir séries e filmes</p> 
-<p>🤝 Aberta a novas oportunidades e pronta para enfrentar novos desafios</p> 
+Atualmente, estou concentrada nos estudos de desenvolvimento back-end como parte de uma transição de carreira autodidata. Após dominar fundamentalmente HTML, CSS e JavaScript, estou agora focada em aprender tecnologias relacionadas ao desenvolvimento back-end, como C#, ASP.NET, NoSQL, TypeScript, Azure, .NET, e SQL. Meu objetivo é me tornar uma desenvolvedora Full Stack completa, expandindo meu conhecimento em projetos práticos e contribuindo para soluções na área de desenvolvimento de software.🚀🚀
 </div>
 
  
