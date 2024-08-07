@@ -14,7 +14,7 @@
 
  ### 💫 sobre mim:
 <div>                                                                                              
-Atualmente, estou concentrada nos estudos de desenvolvimento back-end como parte de uma transição de carreira autodidata. Após dominar fundamentalmente HTML, CSS e JavaScript, estou agora focada em aprender tecnologias relacionadas ao desenvolvimento back-end. Meu objetivo é me tornar uma desenvolvedora Full Stack completa, expandindo meu conhecimento em projetos práticos e contribuindo para soluções na área de desenvolvimento de software.🚀🚀
+Atualmente, estou concentrada nos estudos como parte de uma transição de carreira autodidata. Após dominar fundamentalmente HTML, CSS e JavaScript, estou agora focada em aprender tecnologias relacionadas ao desenvolvimento back-end. Meu objetivo é me tornar uma desenvolvedora Full Stack completa, expandindo meu conhecimento em projetos práticos e contribuindo para soluções na área de desenvolvimento de software.🚀🚀
 </div>
 
  
