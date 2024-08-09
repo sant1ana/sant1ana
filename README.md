@@ -12,7 +12,7 @@
 <br>
 
 
- ### 💫 sobre mim:
+ ### 💫 sobre mim
 <div>                                                                                              
 Atualmente, estou dedicada a uma transição de carreira como autodidata. Após construir uma boa base em HTML, CSS e JavaScript, estou agora focada em aprender mais sobre desenvolvimento back-end.<br>
 Meu objetivo é me tornar uma desenvolvedora back-end completa, aprimorando minhas habilidades com projetos práticos pessoais e contribuindo com soluções úteis na área de desenvolvimento de software. 🚀💡
@@ -58,7 +58,7 @@ Meu objetivo é me tornar uma desenvolvedora back-end completa, aprimorando minh
 
 <div>
  
- ### 📫 Entre em contato comigo: 
+ ### 📫 Entre em contato comigo 
   <br> 
   
   <div>
