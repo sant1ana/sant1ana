@@ -14,21 +14,24 @@
 
  ### 💫 sobre mim:
 <div>                                                                                              
-Atualmente, estou concentrada nos estudos como parte de uma transição de carreira autodidata. Após dominar fundamentalmente HTML, CSS e JavaScript, estou agora focada em aprender tecnologias relacionadas ao desenvolvimento back-end. 
+Atualmente, estou concentrada nos estudos como parte de uma transição de carreira autodidata. Após dominar fundamentalmente HTML, CSS e JavaScript, estou agora focada em aprender tecnologias relacionadas ao desenvolvimento back-end.<br>
 Meu objetivo é me tornar uma desenvolvedora back-end completa, expandindo meu conhecimento em projetos práticos e contribuindo para soluções na área de desenvolvimento de software.🚀🚀
 </div>
 
  
-  <br><br>🛠️ Habilidades Técnicas:
+  <br><br>🛠️ Habilidades Técnicas
 <div style="display: inline_block"><br/>
- Possuo conhecimentos em
+  Lógica de Programação em:  &ensp;  <img align="center" alt="React" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  
+ <br>
+ <br>
+ Linguagens: &ensp; 
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
- <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> e Lógica de Programação em  <img align="center" alt="React" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
   </div><br><br>
  
  
- ⚙️Ferramentas que uso:
+ ⚙️Ferramentas que uso
  <div style="display: inline_block"><br/>
  
  <img align="center" alt="Visual_Studio_code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
