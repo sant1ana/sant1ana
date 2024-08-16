@@ -14,8 +14,7 @@
 
  ### 💫 sobre mim
 <div>                                                                                              
-Atualmente, estou dedicada a uma transição de carreira como autodidata. Após construir uma boa base em HTML, CSS e JavaScript, estou agora focada em aprender mais sobre desenvolvimento back-end.<br>
-Meu objetivo é me tornar uma desenvolvedora back-end completa, aprimorando minhas habilidades com projetos práticos pessoais e contribuindo com soluções úteis na área de desenvolvimento de software. 🚀💡
+Atualmente, estou estudando HTML, CSS e JavaScript como parte da minha transição de carreira. Após dominar essas tecnologias, meu próximo passo será aprender sobre desenvolvimento back-end. Meu objetivo é me tornar uma desenvolvedora Full Stack, ampliando meus conhecimentos através de projetos pessoais e criando soluções práticas. 🚀🚀💡
 </div>
 
  
