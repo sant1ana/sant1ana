@@ -14,7 +14,7 @@
 
  ### 💫 sobre mim
 <div>                                                                                              
-Atualmente, estou estudando HTML, CSS e JavaScript como parte da minha transição de carreira. Após dominar essas tecnologias, meu próximo passo será aprender sobre desenvolvimento back-end. Meu objetivo é me tornar uma desenvolvedora Full Stack, ampliando meus conhecimentos através de projetos pessoais e criando soluções práticas. 🚀🚀💡
+Atualmente, estou estudando HTML, CSS e JavaScript como parte da minha transição de carreira. Após dominar essas tecnologias, meu próximo passo será aprender sobre desenvolvimento back-end. Meu objetivo é me tornar uma desenvolvedora Full Stack, ampliando meus conhecimentos através de projetos pessoais e criando soluções práticas. Aqui, documentarei todos os meus estudos e projetos. 🚀🚀💡
 </div>
 
  
