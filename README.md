@@ -14,7 +14,7 @@
 
  ### 💫 sobre mim
 <div>                                                                                              
-Atualmente, estou estudando HTML, CSS e JavaScript como parte da minha transição de carreira. Após dominar essas tecnologias, meu próximo passo será aprender sobre desenvolvimento back-end. Meu objetivo é me tornar uma desenvolvedora Full Stack, ampliando meus conhecimentos através de projetos pessoais e criando soluções práticas. Aqui, documentarei todos os meus estudos e projetos. 🚀🚀💡
+Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas na Fundação FAT, um passo essencial na minha transição de carreira para a área de tecnologia. Esse processo de aprendizado tem sido fundamental para que eu adquira as habilidades e conhecimentos necessários para me destacar como profissional. Meu objetivo é me especializar em automação de testes, contribuindo para a qualidade e eficiência dos projetos em que atuar. 🚀🚀💡
 </div>
 
  
