@@ -9,10 +9,10 @@
 
  ### 💫 sobre mim
 <div>                                                                                              
-Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas na Fundação FAT, um passo essencial para minha transição de carreira na área de desenvolvimento de software. Esse processo de aprendizado tem sido fundamental para que eu adquira as habilidades e conhecimentos necessários para me destacar como profissional. 
+Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas na Fundação FAT, um passo essencial na minha transição de carreira para o desenvolvimento de software. Durante esse processo, tenho adquirido habilidades e conhecimentos que me preparam para me destacar como uma profissional capacitada e dedicada.
  
 ### 🎯 Meu objetivo
-Ao concluir o curso, meu foco estará em automação de testes, com o objetivo de contribuir para a criação de softwares de alta qualidade, robustos e bem testados. Acredito que **automação de testes** é uma área fundamental para garantir a excelência em sistemas complexos e estou me dedicando a estudar as melhores práticas e ferramentas dessa área.
+Ao concluir o curso, pretendo direcionar minha carreira para a automação de testes, uma área estratégica para garantir a qualidade e robustez dos softwares. Estou empenhada em estudar as melhores práticas e ferramentas do setor, com o objetivo de contribuir para o desenvolvimento de sistemas complexos, garantindo que sejam bem testados e confiáveis.
 </div>
 
 
