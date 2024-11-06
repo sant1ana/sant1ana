@@ -9,35 +9,45 @@
 
  ### 💫 sobre mim
 <div>                                                                                              
-Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas na Fundação FAT, um passo essencial na minha transição de carreira para a área de tecnologia. Esse processo de aprendizado tem sido fundamental para que eu adquira as habilidades e conhecimentos necessários para me destacar como profissional. Meu objetivo é me especializar em automação de testes, contribuindo para a qualidade e eficiência dos projetos em que atuar. 🚀🚀💡
+Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas na Fundação FAT, um passo essencial para minha transição de carreira na área de desenvolvimento de software. Esse processo de aprendizado tem sido fundamental para que eu adquira as habilidades e conhecimentos necessários para me destacar como profissional. 
+ 
+### 🎯 Meu objetivo
+Ao final do curso, meu foco estará em automação de testes, com o objetivo de contribuir para a criação de softwares de alta qualidade, robustos e bem testados. Acredito que **automação de testes** é uma área fundamental para garantir a excelência em sistemas complexos e estou me dedicando a estudar as melhores práticas e ferramentas dessa área.
 </div>
+
 
  
   <br><br>  
-  ### 🛠️ Habilidades Técnicas
-<div style="display: inline_block"><br/>
-  Lógica de Programação em:  &ensp;  <img align="center" alt="React" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  
- <br>
- <br>
- Linguagens: &ensp; 
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-  </div>
-  
-  <br>
-  <br>
-  <br>
+ ## 💻 Tecnologias que estou aprendendo
+
+### Linguagens de Programação
+- ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
+
+### Banco de Dados
+- ![SQL](https://img.shields.io/badge/SQL-%2300C8FF.svg?style=flat&logo=sql&logoColor=white) 
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) 
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) 
+
+### Frameworks e Bibliotecas
+- ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) 
+- ![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) 
+- ![Spring](https://img.shields.io/badge/Spring-%2361DAFB.svg?style=flat&logo=spring&logoColor=green) 
+
+### Tecnologias de Estilo 
+- ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+- ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+
+  ### Controle de Versão
+- ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) 
  
  
-  ### ⚙️Ferramentas que uso
- <div style="display: inline_block"><br/>
- 
- <img align="center" alt="Visual_Studio_code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
- <img align="center" alt="Amanda-Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
- <img align="center" alt="Amanda-Git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-</div><br/> 
+ ### Ferramentas de Desenvolvimento
+- ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white) 
+- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 
   <div align="center">  
   </div>
