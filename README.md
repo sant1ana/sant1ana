@@ -28,7 +28,7 @@ Ao concluir o curso, pretendo direcionar minha carreira para a automação de te
 ### Banco de Dados
 - ![SQL](https://img.shields.io/badge/SQL-%2300C8FF.svg?style=flat&logo=sql&logoColor=white) 
 - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) 
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) 
+
 
 ### Frameworks e Bibliotecas
 - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) 
