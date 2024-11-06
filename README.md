@@ -21,11 +21,14 @@ Ao concluir o curso, pretendo direcionar minha carreira para a automação de te
  ## 💻 Tecnologias que estou aprendendo
 
 ### Linguagens de Programação
-- ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) 
+
+- ![Java](https://img.shields.io/badge/Java-%23007396.svg?style=flat&logo=java&logoColor=white&size=large) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E&size=large) 
+- ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white&size=large)
 
 ### Banco de Dados
+
+
 - ![SQL](https://img.shields.io/badge/SQL-%2300C8FF.svg?style=flat&logo=sql&logoColor=white) 
 - ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
