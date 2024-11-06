@@ -32,8 +32,10 @@ Ao concluir o curso, pretendo direcionar minha carreira para a automação de te
 
 ### Frameworks e Bibliotecas
 - ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) 
+- ![Spring](https://img.shields.io/badge/Spring-%2361DAFB.svg?style=flat&logo=spring&logoColor=green)
+
+### Ambientes de Execução
 - ![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) 
-- ![Spring](https://img.shields.io/badge/Spring-%2361DAFB.svg?style=flat&logo=spring&logoColor=green) 
 
 ### Tecnologias de Estilo 
 - ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -49,7 +51,7 @@ Ao concluir o curso, pretendo direcionar minha carreira para a automação de te
 - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white) 
 - ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
-  ### Outros Conceitos
+### Outros Conceitos
 - **Algoritmos e Estruturas de Dados**: Em breve começarei a aplicar técnicas para resolver problemas de programação.
 - **Testes de Software**: Iniciarei o aprendizado das melhores práticas para garantir a qualidade do código.
 
