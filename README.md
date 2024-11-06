@@ -27,11 +27,14 @@ Ao concluir o curso, pretendo direcionar minha carreira para a automação de te
 
 ### Banco de Dados
 - ![SQL](https://img.shields.io/badge/SQL-%2300C8FF.svg?style=flat&logo=sql&logoColor=white) 
-- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) 
+- ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
 
 
 ### Frameworks e Bibliotecas
 - ![Spring](https://img.shields.io/badge/Spring-%2361DAFB.svg?style=flat&logo=spring&logoColor=green)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+
 
 ### Ambientes de Execução
 - ![NodeJS](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) 
