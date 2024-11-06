@@ -47,7 +47,11 @@ Ao final do curso, meu foco estará em automação de testes, com o objetivo de 
  
  ### Ferramentas de Desenvolvimento
 - ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat&logo=visualstudiocode&logoColor=white) 
-- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+- ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+
+  ### Outros Conceitos
+- **Algoritmos e Estruturas de Dados**: Em breve começarei a aplicar técnicas para resolver problemas de programação.
+- **Testes de Software**: Iniciarei o aprendizado das melhores práticas para garantir a qualidade do código.
 
   <div align="center">  
   </div>
