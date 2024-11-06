@@ -31,7 +31,6 @@ Ao concluir o curso, pretendo direcionar minha carreira para a automação de te
 
 
 ### Frameworks e Bibliotecas
-- ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) 
 - ![Spring](https://img.shields.io/badge/Spring-%2361DAFB.svg?style=flat&logo=spring&logoColor=green)
 
 ### Ambientes de Execução
@@ -40,7 +39,7 @@ Ao concluir o curso, pretendo direcionar minha carreira para a automação de te
 ### Tecnologias de Estilo 
 - ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 - ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+  
 
   ### Controle de Versão
 - ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
