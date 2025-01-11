@@ -24,7 +24,6 @@ Acredito no poder da tecnologia para transformar vidas e resolver problemas.
 ### Banco de Dados
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
@@ -34,15 +33,9 @@ Acredito no poder da tecnologia para transformar vidas e resolver problemas.
 
 <p>
   <img src="https://img.shields.io/badge/Spring-%2361DAFB.svg?style=for-the-badge&logo=spring&logoColor=green" />
- <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  
 </p>
 
-### Linguagens de Marcação e Estilo
-
-<p>
-  <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
 
   ### Controle de Versão
   
@@ -55,8 +48,9 @@ Acredito no poder da tecnologia para transformar vidas e resolver problemas.
  ### Ferramentas de Desenvolvimento
  
 <p>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-%2300558D.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-%23000000.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
 </p>
 
   <div align="center">  
