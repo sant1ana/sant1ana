@@ -6,8 +6,8 @@
 
  ### 💫 sobre mim
 <div>                                                                                              
-<p></p>Estou cursando Técnico em Desenvolvimento de Sistemas na Escola Técnica FAT, iniciando minha transição de carreira para desenvolvimento de software, com foco no Back-end. Meu objetivo é dominar Java e criar soluções que tornem os processos mais simples e ajudem as equipes a atingir seus objetivos com eficiência.</p>
-Acredito no poder da tecnologia para transformar vidas e resolver problemas. Com minhas competências e habilidades técnicas, desejo criar aplicações seguras e eficientes, para construir uma carreira sólida e desenvolver soluções úteis. 🚀
+<p></p>Estou fazendo curso Técnico em Desenvolvimento de Sistemas na Escola Técnica FAT e começando minha transição de carreira com foco em desenvolvimento Java. Quero aprender cada vez mais sobre Java e desenvolver soluções que facilitem o dia a dia, tornem as tarefas mais práticas e ajudem as equipes a alcançarem seus objetivos de forma tranquila.</p>
+Acredito no poder da tecnologia para transformar vidas e resolver problemas.
 </div>
 
 
