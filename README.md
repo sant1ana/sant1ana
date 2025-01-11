@@ -19,7 +19,6 @@ Acredito no poder da tecnologia para transformar vidas e resolver problemas.
 
 <p>
   <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 </p>
 
 ### Banco de Dados
