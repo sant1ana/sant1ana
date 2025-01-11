@@ -35,7 +35,6 @@ Acredito no poder da tecnologia para transformar vidas e resolver problemas.
 
 <p>
   <img src="https://img.shields.io/badge/Spring-%2361DAFB.svg?style=for-the-badge&logo=spring&logoColor=green" />
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
  <img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
