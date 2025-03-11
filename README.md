@@ -28,9 +28,10 @@
 <br><br><br>
 
 <div align="center">
+  
   <a href="https://github.com/sant1ana">
-    <img alt="status" height="180em" src="https://github-readme-stats.vercel.app/api?username=sant1ana&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
-    <img alt="TRINDADE" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1ana&theme=tokyonight&hide_border=true&&layout=compact"/>
+    <img alt="status" height="150em" src="https://github-readme-stats.vercel.app/api?username=sant1ana&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
+    <img alt="TRINDADE" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1ana&theme=tokyonight&hide_border=true&&layout=compact"/>
   </a>
 </div>
 
