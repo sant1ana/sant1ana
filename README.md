@@ -22,8 +22,16 @@
 🎯 Busco aprimorar meus conhecimentos em lógica de programação, estrutura de dados e banco de dados.
 
 💬 Gosto de compartilhar meu aprendizado e trocar ideias sobre programação.<br>
-
+<p>
 📫 Sinta-se à vontade para entrar em contato!
+
+  <a href="https:https://www.linkedin.com/in/vanessasantos30/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
+</a>
+<a href="mailto:vanessasantana12@outlook.com">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white" alt="E-mail" height="25">
+</a>
+</p>
 
 <br><br><br>
 
@@ -37,49 +45,42 @@
 
 
  
-  <br><br>  
- ## 💻 Tecnologias que estou aprendendo
+  <br><br>   
 
-### Linguagens de Programação
+<div align="center">  
+ 
+ ## 💻 O que estou aprendendo atualmente <br> <br>
 
+### 🚀 Linguagens de Programação  
 <p>
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
-### Banco de Dados
-
+### 🗄️ Tecnologias de Banco de Dados  
 <p>
   <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-
-### Frameworks e Bibliotecas
-
+### 📚 Frameworks e Ferramentas  
 <p>
-  <img src="https://img.shields.io/badge/Spring-%2361DAFB.svg?style=for-the-badge&logo=spring&logoColor=green" />
-  
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </p>
 
-
-  ### Controle de Versão
-  
+### 🛠️ Ferramentas de Controle de Versão  
 <p>
   <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
- 
- ### Ferramentas de Desenvolvimento
- 
+### 🖥️ Ambientes e Ferramentas de Desenvolvimento  
 <p>
-  <img src="https://img.shields.io/badge/Eclipse-%2300558D.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/NetBeans-%23000000.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_NetBeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
 </p>
 
-  <div align="center">  
-  </div>
+</div>
   <br> <br>
 
 
@@ -87,13 +88,6 @@
 
 <div>
  
- ### 📫 Entre em contato comigo 
-  <br> 
-  
-  <div>
-   
- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanessasantossantana832@gmail.com)
 
-</div>
 
 
