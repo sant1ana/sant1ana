@@ -25,7 +25,7 @@
 <p>
 📫 Sinta-se à vontade para entrar em contato!
 
-  <a href="https:https://www.linkedin.com/in/vanessasantos30/">
+  <a href="https://www.linkedin.com/in/vanessasantos30/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25">
 </a>
 <a href="mailto:vanessasantana12@outlook.com">
