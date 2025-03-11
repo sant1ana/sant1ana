@@ -1,14 +1,29 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=100&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Ol%C3%A1%2C+Seja+bem-vindo(a)!)](https://git.io/typing-svg)
+<div align="center">
 
-<br>
+
+# Hello, World!
 <br>
 
+![53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2](https://github.com/user-attachments/assets/6ec82c01-91a8-444a-9f61-569ee858c083)
+
+</div>
+
+<br><br>
 
  ### 💫 sobre mim
-<div>                                                                                              
-<p></p>Estou fazendo curso Técnico em Desenvolvimento de Sistemas na Escola Técnica FAT e começando minha transição de carreira com foco em desenvolvimento Java. Quero aprender cada vez mais sobre Java e desenvolver soluções que facilitem o dia a dia, tornem as tarefas mais práticas e ajudem as equipes a alcançarem seus objetivos de forma tranquila.</p>
-Acredito no poder da tecnologia para transformar vidas e resolver problemas.
-</div>
+ <br>
+                                                                                              
+👩‍💻 Cursando Técnico em Desenvolvimento de Sistemas e em transição de carreira.<br>
+
+🔍 Foco em desenvolvimento back-end Java.<br>
+
+📚 Aprimorando meus conhecimentos em lógica de programação, estrutura de dados e banco de dados para fortalecer minha base técnica.<br>
+
+🎯 Meu objetivo é concluir o curso técnico e trabalhar como desenvolvedora.<br>
+
+💬 Gosto de compartilhar meu aprendizado e trocar ideias sobre programação.<br>
+
+📫 Sinta-se à vontade para entrar em contato!<br>
 
 
  
