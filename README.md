@@ -23,7 +23,16 @@
 
 💬 Gosto de compartilhar meu aprendizado e trocar ideias sobre programação.<br>
 
-📫 Sinta-se à vontade para entrar em contato!<br>
+📫 Sinta-se à vontade para entrar em contato!
+
+<br><br><br>
+
+<div align="center">
+  <a href="https://github.com/sant1ana">
+    <img alt="status" height="180em" src="https://github-readme-stats.vercel.app/api?username=sant1ana&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&show_owner=true"/>
+    <img alt="TRINDADE" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1ana&theme=tokyonight&hide_border=true&&layout=compact"/>
+  </a>
+</div>
 
 
  
@@ -72,11 +81,7 @@
   </div>
   <br> <br>
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sant1ana&show_icons=true&theme=github_dark&bg_color=000000&title_color=F73D9F&text_color=F73D9F&icon_color=F73D9F&border_color=F73D9F&include_all_commits=true&count_private=true"/>
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sant1ana&layout=compact&langs_count=16&theme=github_dark&bg_color=000000&title_color=F73D9F&text_color=F73D9F&border_color=F73D9F"/>
-</div>
+
 <br> <br>
 
 <div>
