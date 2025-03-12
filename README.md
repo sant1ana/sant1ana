@@ -13,15 +13,17 @@
  ### 💫 sobre mim
  <br>
                                                                                               
-👩‍💻 Em transição de carreira, motivada pela vontade de aprender, crescer e me reinventar
+👩‍💻 Em transição de carreira, estudando para me tornar uma desenvolvedora back-end Java.
 
-🔍 Estudando para me tornar uma desenvolvedora back-end Java.
+🔍 Movida pela curiosidade e pelo desejo de aprender, crescer e me reinventar.
 
 📚 Atualmente, curso Técnico em Desenvolvimento de Sistemas.
 
-🎯 Focada em fortalecer meus conhecimentos em lógica de programação, estrutura de dados e banco de dados.
+🎯Tenho focado em aprender lógica de programação, estrutura de dados e banco de dados, que são as bases essenciais.
 
-💬 Gosto de compartilhar meu aprendizado e trocar ideias sobre programação.<br>
+🚀Estou sempre buscando formas de colocar em prática o que aprendo e melhorar meus estudos.
+
+💬 Acredito no poder da troca de conhecimento e gosto de compartilhar meu aprendizado por aqui.
 <p>
 📫 Sinta-se à vontade para entrar em contato!
 
