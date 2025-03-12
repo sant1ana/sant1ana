@@ -51,7 +51,7 @@
 
 <div align="center">  
  
- ## 💻 O que estou aprendendo atualmente <br> <br>
+ ## 💻 Conhecimentos em construção <br> <br>
 
 ### 🚀 Linguagens de Programação  
 <p>
