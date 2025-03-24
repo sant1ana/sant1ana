@@ -15,7 +15,7 @@
 
  👩‍💻 Em transição de carreira, focada em me tornar uma desenvolvedora back-end Java.
 
-🎬 Amo maratonar filmes e séries, mas, ultimamente, meu enredo favorito tem sido resolver desafios de lógica de programação com direito a muitos algoritmos e fluxogramas.
+🎬 Amo maratonar filmes e séries, mas, ultimamente, meu enredo favorito tem sido resolver desafios de lógica de programação.
 
 🔍 Movida pela curiosidade e pelo desejo constante de aprender, crescer e me reinventar.
 
