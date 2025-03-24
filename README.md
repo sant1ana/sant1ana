@@ -23,7 +23,7 @@
 
 🚀 Para mim, aprender é um ciclo: testar, errar, refatorar e evoluir. No fim das contas, debugar também faz parte do processo!
 
-💬 Acredito no poder da troca de conhecimento e gosto de compartilhar meu aprendizado por aqui.
+💬  Atualmente, curso Técnico em Desenvolvimento de Sistemas
 <p>
 📫 Sinta-se à vontade para entrar em contato!
 
@@ -47,48 +47,7 @@
 
 
  
-  <br><br>   
-
-<div align="center">  
- 
- ## 💻 Conhecimentos em construção <br> <br>
-
-### 🚀 Linguagens de Programação  
-<p>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-</p>
-
-### 🗄️ Tecnologias de Banco de Dados  
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-### 📚 Frameworks e Ferramentas  
-<p>
-  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
-</p>
-
-### 🛠️ Ferramentas de Controle de Versão  
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-### 🖥️ Ambientes e Ferramentas de Desenvolvimento  
-<p>
-  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache_NetBeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white" />
-</p>
-
-</div>
-  <br> <br>
-
-
-<br> <br>
-
-<div>
+  
  
 
 
